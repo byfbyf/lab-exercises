@@ -78,6 +78,6 @@ d <-c(7,8,9)
 print(CombineVectors(a, b, d))
 # Write a function `CapsTime` that takes in a vector of names of courses you're taking, ex "Informatics 201" and removes all capital letters
 CapsTime <- function(vec) {
-
+   
 }
 

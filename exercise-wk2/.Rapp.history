@@ -1,0 +1,38 @@
+my.num <- 6#
+initials <- "?. ?."#
+#
+my.vector <- c(my.num, initials)#
+#
+# run ?sum to get more info#
+vector.sum <- sum(my.vector)
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+install.packages("stringr")#
+#
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+install.packages("string")#
+#
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+install.packages("string")#
+#
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+install.packages("stringr")
+install.packages("stringr")#
+#
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+install.packages("stringr")#
+library("stringr") #
+my.line <- "Hey, hey, this is the library"#
+#
+print(str_length(my.line))
+said.the.famous <- paste(my.line, " - ", initial)
+said.the.famous <- paste(my.line, " - ", initials)
